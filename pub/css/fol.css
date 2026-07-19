@@ -1,0 +1,4 @@
+.folder-list { list-style: none; cursor: pointer; }
+.folder { color: #007bff; font-weight: bold; margin-bottom: 5px; }
+.folder:hover { text-decoration: underline; }
+.file { color: #6c757d; pointer-events: none; } /* Files aren't clickable here */
